@@ -28,8 +28,5 @@ With a user-friendly interface and accurate data from reputable weather APIs, yo
 Thank You 
 
 
-# Final Thoughts
 
-I hope you find the WeatherSense useful for checking weather conditions in your area or any city you're interested in. 
-Enjoy using the app and stay informed about the weather!
 
